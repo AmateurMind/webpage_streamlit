@@ -7,3 +7,8 @@ notebook
 tqdm
 opencv-contrib-python
 scikit-learn
+streamlit
+streamlit-lottie
+requests
+opencv-python
+pillow
