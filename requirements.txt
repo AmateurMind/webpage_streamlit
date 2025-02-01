@@ -45,8 +45,7 @@ multidict
 narwhals
 numpy
 oauthlib
-opencv-contrib-python
-opencv-python
+opencv-python-headless
 opt-einsum
 packaging
 pandas==2.2.2
